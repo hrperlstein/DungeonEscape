@@ -80,12 +80,9 @@ To purchase items, you must first answer a riddle. If you answer incorrectly, yo
 Every turn, there is a high chance that a random misfortune will occur, damaging your party. Be prepared for unexpected setbacks as you explore the dungeon.
 
 ## Installation & Setup
-- Download the zip file and open within your chosen IDE
+- Download all files and open within your chosen IDE
 
-- Ensure all files are in the same directory as the cpp files in order to successfully compile.
-
-  MainMenu.h, Map.h, Party.h and Player.h, monster.txt, monsters.txt, OGmonster.txt, OGriddle.txt, riddle.txt, riddles.txt 
-  must be in the same directory as the cpp files.
+- Ensure all files are in the same directory in order to successfully compile.
 
 - For a g++ compiler:
 
