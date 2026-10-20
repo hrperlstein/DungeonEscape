@@ -1,7 +1,7 @@
 # DungeonEscape
 
 ## Description
-This project is an ASCII video game based off the game Dungeons and Dragons developed in C++. The game challenges players to find a key in order to escape before a sorcerer destroys the dungeon. Investigate spaces, win rock-paper-scissors matches, defeat monsters, and solve riddles to survive and escape.
+This project is an ASCII video game based off the game Dungeons and Dragons. The game challenges players to find a key in order to escape before a sorcerer destroys the dungeon. Investigate spaces, win rock-paper-scissors matches, defeat monsters, and solve riddles to survive and escape.
 
 ## Features
 - Dungeon Exploration — Navigate a dungeon filled with hidden merchants, rooms, and dangerous encounters
